@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="PoliceWeb_yushu"
+  id="myeclipse.1443018786736"
+  context-root="/PoliceWeb_yushu"
+  j2ee-spec="5.0"
+  archive="PoliceWeb_yushu.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
